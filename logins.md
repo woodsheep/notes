@@ -1,4 +1,7 @@
 # Log in
+## CVM
+CVM 是英文 Cloud Virtual Machine 的缩写
+
 ## 腾讯云网站
 > user = woodsheep@outlook.com
 > pswd = ws19*26
@@ -16,4 +19,8 @@
 
 #### USER2 
 > user = woodsheep
+> pswd = ws19*6
+
+#### USER3 
+> user = ftpuser
 > pswd = ws19*6
